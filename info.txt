@@ -1,3 +1,4 @@
 git is fast
 git is good
 git is light weight
+git is comprehensive
