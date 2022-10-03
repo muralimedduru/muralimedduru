@@ -1,4 +1,3 @@
 git
 maven
-demo
-demo2
+murali
