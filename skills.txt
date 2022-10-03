@@ -1,5 +1,4 @@
 git
 maven
-cloud
-ttuieotu
-murali
+demo
+demo2
